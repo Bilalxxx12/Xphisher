@@ -6,7 +6,7 @@
 <h2 align="center">Xphisher</h2>
 
   <p><i>A beginners friendly, Automated phishing tool with 30+ templates.</i></p>
-  <p><i> Update V1.0 : Airbnb phishing created & added with premium design >_< </i></p>
+  <p><i> Update V1.0 : Airbnb phishing created & add with premium design >_< </i></p>
   <p align="center">
     <a href="https://github.com/Whomrx666/Xphisher/issues/new?assignees=&labels=bug&title=Report Bug">Report Bug</a>
     &nbsp;·&nbsp;
